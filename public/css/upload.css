@@ -1,0 +1,8 @@
+.uploadForm label{
+    margin: 2px;
+}
+
+.uploadForm button{
+    margin: 4% auto;
+    width: 20%;
+}

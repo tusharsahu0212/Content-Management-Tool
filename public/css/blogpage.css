@@ -1,0 +1,26 @@
+img{
+    width: 30%;
+    height: auto;
+    margin-bottom: 20px;
+
+}
+
+video{
+    width: 30%;
+    height: auto;
+    margin-bottom: 20px;
+
+}
+
+h2{
+    word-wrap: break-word;
+    padding: auto;
+    margin-bottom: 20px;
+
+}
+
+p{
+    word-wrap: break-word;
+    margin-bottom: 20px;
+
+}
